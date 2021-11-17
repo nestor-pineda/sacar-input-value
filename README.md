@@ -1,5 +1,5 @@
 ![](imprime-mensaje.gif)
-# sacar-input-value
+# Sacar Input Value
 Sacamos el input value y lo imprimimos en otro lado del HTML
 
 Creamos un Event Listener en el botón.
